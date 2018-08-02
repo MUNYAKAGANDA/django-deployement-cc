@@ -78,10 +78,11 @@ WSGI_APPLICATION = 'gitega.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME':'CC',
+        'NAME':'munyakaganda1.mysql.database.azure.com',
         
-        'USER':'root',
-        'Password':'root',
+        'USER':'john@munyakaganda1',
+        'PASSWORD':'Jesus0123',
+        'HOST':'',
 
 
 
