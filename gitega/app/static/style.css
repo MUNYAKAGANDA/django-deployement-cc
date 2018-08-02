@@ -1,0 +1,68 @@
+
+
+body{
+background-color:rgb(222, 213, 213)
+
+}
+
+.navbar-ex1-collapse{
+  /**background-color:rgb(189, 4, 7);**/
+  background-color: black
+  padding:16px
+
+}
+.navbar a:hover{
+      background-color: white;border-radius: 20%
+}
+.navbar li a:hover{
+      background-color: white;border-radius: 20%
+}
+.navbar li a{
+      border-radius: 20%; margin-left:60px;margin-bottom:20px;margin-right:3px
+}
+
+ img{
+  height:500px;
+  width:100%
+}
+.con{ background-image: url('cc-jobs/gitega/app/static/cristiano.jpg')
+
+}
+.row{
+  background-color: rgb(186, 168, 168)
+}
+.conus{
+     background-color:black
+}
+.activ{
+     background-color: rgb(186, 168, 168)
+}
+.thumbnail{
+     height:400px;width:100%
+}
+.div1{
+  align:center
+}
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+.h23 {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+.landscape {
+    height: 500px;
+    width: 100%;
+}
+
+img{
+max-width:100%;
+max-height:500px;
+}
+.word{
+  word-wrap: break-word
+}
